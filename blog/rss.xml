@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Track around the world Blog</title>
+        <title>Trace across the world Blog</title>
         <link>https://matthieu69007.github.io/blog</link>
-        <description>Track around the world Blog</description>
+        <description>Trace across the world Blog</description>
         <lastBuildDate>Tue, 04 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
