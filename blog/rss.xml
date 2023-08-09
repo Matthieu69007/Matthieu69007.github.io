@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Trace across the world Blog</title>
-        <link>https://traceacrosstheworld.com/blog</link>
+        <link>https://matthieu69007.github.io/blog</link>
         <description>Trace across the world Blog</description>
         <lastBuildDate>Tue, 04 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>fr</language>
         <item>
             <title><![CDATA[Project is starting]]></title>
-            <link>https://traceacrosstheworld.com/blog/project-is-starting</link>
-            <guid>https://traceacrosstheworld.com/blog/project-is-starting</guid>
+            <link>https://matthieu69007.github.io/blog/project-is-starting</link>
+            <guid>https://matthieu69007.github.io/blog/project-is-starting</guid>
             <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Ca y est, le projet est lancé! Le site est en construction, le départ est prévu pour Septembre 2023 depuis Fourvière, Lyon, FRANCE]]></description>
             <content:encoded><![CDATA[<p>Ca y est, le projet est lancé! Le site est en construction, le départ est prévu pour Septembre 2023 depuis Fourvière, Lyon, FRANCE</p>]]></content:encoded>
