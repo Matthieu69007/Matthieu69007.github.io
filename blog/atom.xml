@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://matthieu69007.github.io/blog</id>
+    <id>https://traceacrosstheworld.com/blog</id>
     <title>Trace across the world Blog</title>
     <updated>2023-07-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://matthieu69007.github.io/blog"/>
+    <link rel="alternate" href="https://traceacrosstheworld.com/blog"/>
     <subtitle>Trace across the world Blog</subtitle>
-    <icon>https://matthieu69007.github.io/img/Mascotte/Resize/lamatetedetoure.ico</icon>
+    <icon>https://traceacrosstheworld.com/img/Mascotte/Resize/lamatetedetoure.ico</icon>
     <entry>
         <title type="html"><![CDATA[Project is starting]]></title>
-        <id>https://matthieu69007.github.io/blog/project-is-starting</id>
-        <link href="https://matthieu69007.github.io/blog/project-is-starting"/>
+        <id>https://traceacrosstheworld.com/blog/project-is-starting</id>
+        <link href="https://traceacrosstheworld.com/blog/project-is-starting"/>
         <updated>2023-07-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ca y est, le projet est lancé! Le site est en construction, le départ est prévu pour Septembre 2023 depuis Fourvière, Lyon, FRANCE]]></summary>
         <content type="html"><![CDATA[<p>Ca y est, le projet est lancé! Le site est en construction, le départ est prévu pour Septembre 2023 depuis Fourvière, Lyon, FRANCE</p>]]></content>
